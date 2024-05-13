@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**bnisarg1/bnisarg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me
+- I work as a ***Senior Software Engineer*** having ***5.5 years*** of total experience in the below tools and technologies!
 
-Here are some ideas to get you started:
+> **Java | Golang | REST API | Spring Boot | JPA | Hibernate | Spring Security | Microservices | Unit Testing (JUnit and Mockito Frameworks) | Docker | Kubernetes | AWS | EKS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Certifications
+>- [AWS Certified Solutions Architect - Associate (SAA-C02) [(https://www.credly.com/badges/977136d8-a79e-45ce-973d-e72e5e5c5e3d)]
+
+#### Here're the links to my profiles
+>- [LinkedIn](https://www.linkedin.com/in/bnisarg1/)
+>- [Stackoverflow](https://stackoverflow.com/users/9744855/nisarg-bhagavantanavar)
+>- [Medium](https://medium.com/@bnisarg1)
+>- [Credly Badges](https://www.credly.com/users/nisarg-bhagavantanavar/badges)
